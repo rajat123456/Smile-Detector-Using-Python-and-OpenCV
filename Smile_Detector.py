@@ -1,4 +1,4 @@
-# Homework Solution
+# Smile Detector Using Python and OpenCV
 
 # Importing the libraries
 import cv2
